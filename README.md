@@ -1,6 +1,6 @@
            					 HỆ THỐNG BÁN HÀNG TRỰC TUYẾN
 1. Mô tả quy trình nghiệp vụ (online/offline), phát biểu ràng buộc liên quan, danh sách chức năng, tần suất giao dịch.
-2. Thiết kế dữ liệu (quan niệm -> vật lý), chuyển qua lược đồ quan hệ, phụ thuộc hàm, đánh giá dạng chuẩn, nâng chuẩn dữ liệu nếu có.
+2. Thiết kế dữ liệu (quan niệm -> vật lý), bảng mô tả, chuyển qua lược đồ quan hệ, phụ thuộc hàm, đánh giá dạng chuẩn, nâng chuẩn dữ liệu nếu có.
 3. Cài đặt bảng dữ liệu thiết kế vật lý vào hệ quản trị csdl MS SQL với một lượng lớn dữ liệu và các ràng buộc liên quan
 4. Thực hiện thử nghiệm với các câu truy vấn với giả định tần suất lớn. Quan sát thực nghiệm và đề xuất giải pháp cải thiện hiệu quả truy xuất.
 5. Lập trình mô phỏng hệ thống đã khảo sát ở trên:
