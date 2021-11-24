@@ -16,4 +16,6 @@
     bán hàng…)
     
 - GĐ1: Mô tả quy trình nghiệp vụ, Thiết kế dữ liệu mức quan niệm & Thiết kế dữ liệu mức logic: (chuyển qua lược đồ quan hệ, phát biểu ràng buộc, phụ thuộc hàm, đánh giá dạng chuẩn, nâng chuẩn dữ liệu nếu có.)
+           1. Mô tả quy trình nghiệp vụ (online/offline), phát biểu ràng buộc liên quan, danh sách chức năng, tần suất giao dịch.
+           2. Thiết kế dữ liệu mức quan niệm & Thiết kế dữ liệu mức logic, bảng mô tả, chuyển qua lược đồ quan hệ, phụ thuộc hàm, đánh giá dạng chuẩn, nâng chuẩn dữ liệu nếu có.
 - GĐ2:
